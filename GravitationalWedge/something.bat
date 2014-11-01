@@ -1,3 +1,0 @@
-:a
-start
-goto a
